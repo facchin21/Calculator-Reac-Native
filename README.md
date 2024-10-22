@@ -1,4 +1,4 @@
-# Calculadora Ios en React Navite📱
+# Calculadora IOs en React Navite📱
 
 La calculadora fue creada con el curso de Fernando Herrara de React Native en Udemy.
 
